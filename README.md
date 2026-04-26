@@ -12,7 +12,7 @@ This project is a hybrid mobile application designed to connect users with nearb
 💬 In-app communication between user and mechanic
 💳 Service request history tracking
 🔐 Secure user authentication (login/register
-
+]
 
 🛠️ Tech Stack 
 Frontend: React Native / Flutter (choose what you used)
