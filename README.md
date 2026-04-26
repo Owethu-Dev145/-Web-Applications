@@ -21,7 +21,6 @@ APIs: Google Maps API (for location services)
 Version Control: Git & GitHub
 
 
-
 🧠 System Modules
 👤 User Management Module
 🔧 Mechanic Management Module
