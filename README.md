@@ -3,7 +3,6 @@
 
 📌 Overview
 
-
 This project is a hybrid mobile application designed to connect users with nearby mechanics in real-time for on-demand vehicle repair services. The system improves service delivery efficiency by allowing users to request assistance, track mechanics, and manage bookings through a single platform.
 
 ⚙️ Features
