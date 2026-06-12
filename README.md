@@ -12,7 +12,7 @@ This project is a hybrid mobile application designed to connect users with nearb
 💳 Service request history tracking
 🔐 Secure user authentication (login/register
 
-🛠️ Tech Stack x
+🛠️ Tech Stack 
 Frontend: React Native / Flutter (choose what you used)
 Backend: Node.js / Firebase
 Database: Firestore / MySQL
