@@ -9,6 +9,7 @@ This project is a hybrid mobile application designed to connect users with nearb
 🔧 Request a mechanic in real-time
 
 📍 GPS-based location tracking for nearby service providers
+
 📅 Booking and scheduling system
 💬 In-app communication between user and mechanic
 💳 Service request history tracking
